@@ -1,8 +1,10 @@
 # -luffy-life
 ***
-# 程序入口文件
+## 开发环境
+py3.X + pycharm
+## 程序入口文件
 /atm-mall/main.py
-# 目录结构介绍
+## 目录结构介绍
 * conf
 > 包含conf.py文件
 
