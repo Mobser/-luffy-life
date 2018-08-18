@@ -1,9 +1,9 @@
 # -luffy-life
 ***
 ## 开发环境
-py3.X + pycharm
+* py3.X + pycharm
 ## 程序入口文件
-/atm-mall/main.py
+* /atm-mall/main.py
 ## 目录结构介绍
 * conf
 > 包含conf.py文件
@@ -37,3 +37,5 @@ py3.X + pycharm
 > admin_page  管理员模块
 
 > pwd_md5     对密码进行加密
+## 联系方式
+* mobs@vip.qq.com
